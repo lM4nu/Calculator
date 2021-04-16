@@ -11,7 +11,7 @@ align-items:center;
 .calccontainer {
 margin-top: 2%;
 background-color: grey;
-width: 40%;
+width: 30%;
 height: 80vh;
 display:flex;
 align-items:center;
@@ -44,7 +44,6 @@ width:49%;
 
 
 h1{
-padding:1%;
 padding-right:4%;
 }
 .display{
